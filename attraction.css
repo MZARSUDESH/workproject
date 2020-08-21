@@ -1,0 +1,26 @@
+table, th, td {
+    column-gap: 2px;
+    border: 1px solid black;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+     font-size: 18px;
+     width: auto;
+     height: auto;
+}
+  th, td {
+    padding: 15px;
+  }
+  th {
+    text-align: left;
+  }
+  table {
+    border-spacing: 5px;
+  }
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(241, 241, 114); 
+}

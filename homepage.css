@@ -1,0 +1,66 @@
+#pic1{
+  width: 33.1%;
+  height:430px;
+}
+
+#grid{
+  display: grid;
+  grid-template-columns: repeat(2,auto);
+}
+
+#grid2 img{
+  width: 100%;
+  margin-top: 150px;
+  
+}
+
+  body{
+    background-color:rgb(241, 241, 114); 
+  }
+  #navbar {
+    overflow: hidden;
+    background-color: #333;
+  }
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+
+#ss{
+ padding-top: 150px;
+ font-size: 175%;
+ font-style: italic;
+}
+#ss1{
+  padding-top: 150px;
+font-size: 175%;
+font-style: italic;
+}
+#grid2{
+ display: grid;
+ grid-template-columns:50% 30%;
+}
+#ss2{
+
+  font-size: 175%;
+  font-style: italic;
+  text-align: center;
+}
+#ss1 ol li{
+  text-align: 60%;
+  margin-left: 25%;
+  
+  
+}
+#grid3 img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+ 
+ 

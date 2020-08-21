@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+    background-color: rgb(241, 241, 114); ;
+}
+h1{
+ text-align: center;    
+}
+h2{
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+#img3{
+    height: 100%;
+}
+.container1{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    
+  }
+  .row{
+      text-align: center;
+  }
